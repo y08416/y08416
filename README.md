@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Y08416</h1>
+<h1 align="center">Hi 👋 I'm Yosuke Ozaki</h1>
 
 <p align="center">
   🇯🇵 Web Backend Developer from Japan<br>
