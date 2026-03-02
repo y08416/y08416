@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Yosuke Ozaki</h1>
+<h1 align="center">Yosuke Ozaki</h1>
 
 <p align="center">
   🇯🇵 <b>Product Management & Engineering</b> | Ritsumeikan Univ.<br>
