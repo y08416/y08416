@@ -10,7 +10,8 @@
 
 ## 🧠 About Me
 
-- 🎓 **Education**: 3rd-year student at Ritsumeikan University, Image and Sound Media Course.
+- 🎓 **Education**: 4th-year student at Ritsumeikan University, Image and Sound Media Course.
+- 🔬 **Research**: Applying deep learning to **Active Noise Cancellation (ANC)** — exploring neural-network-based approaches to noise suppression.
 - 🛠 **Current Focus**: Web development with Python (FastAPI) and modern frontend tools. Not just coding, but thinking about "why" and "how" we build.
 - 🎯 **Career Goal**: Aspiring **Product Manager**. I enjoy the process of requirement definition and choosing the right tech stack to solve problems.
 - 🎧 **Lifestyle**: DJing (Tokyo/Osaka/Kyoto) — I love the intersection of technology and creative media.
@@ -27,9 +28,18 @@
 
 ---
 
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [すきまトリップ](https://github.com/y08416/sukima-trip-backend) | 隙間時間で行ける旅行を提案するWebアプリ |
+| [rekordbox-mcp](https://github.com/y08416/rekordbox-mcp) | DJソフト rekordbox と連携するMCPサーバー |
+
+---
+
 ## 📊 Activity
 - 💻 Regularly coding about 10–15 hours a week, focusing on sustainable and clean architecture.
-- 🧪 Exploring **Tailwind CSS v4** and AI integration (OpenAI API) in personal projects.
+- 🧪 Exploring **AI integration** and **MCP (Model Context Protocol)** in personal projects.
 
 ---
 
